@@ -18,3 +18,7 @@ This audio recorder and analyzer has been built using GUIDE in MATLAB. It is a s
 
 ## User-Interface
 ![alt text](https://github.com/roshni-b/Audio-Visualizer/blob/master/audio_viz_UI.png)
+
+<p align="center">
+  <src="https://github.com/roshni-b/Audio-Visualizer/blob/master/audio_viz_UI.png">
+</p>
