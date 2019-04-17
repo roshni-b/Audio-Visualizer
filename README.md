@@ -17,4 +17,4 @@ This audio recorder and analyzer has been built using GUIDE in MATLAB. It is a s
 • Screenshot: Saves analyzed figure to the system in .jpg format. 
 
 ## User-Interface
-![alt text](https://github.com/roshni-b/Audio-Visualizer/blob/master/audio_viz_UI.png "user-interface")
+![alt text](https://github.com/roshni-b/Audio-Visualizer/blob/master/audio_viz_UI.png =100x20)
