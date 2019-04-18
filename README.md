@@ -27,7 +27,7 @@ lab1.mat
 ```
 
 ## User-Interface
-![alt text](https://github.com/roshni-b/Audio-Visualizer/blob/master/audio_viz_UI.png)
+![UI](https://github.com/roshni-b/Audio-Visualizer/blob/master/audio_viz_UI.png)
 
 ## Applications: 
 * Study of Acoustic Phonetics 
