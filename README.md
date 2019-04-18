@@ -23,7 +23,7 @@ cd Audio-Visualizer
 ##### 2. Running the script
 Run script in MATLAB
 ```
-lab1.mat 
+lab1.m
 ```
 
 ## User-Interface
