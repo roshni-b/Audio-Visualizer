@@ -11,6 +11,20 @@ This audio recorder and analyzer has been built using GUIDE in MATLAB. It is a s
 * Spectrogram Plot: Plots intensity of frequency content as a Sonograph. 
 * Screenshot: Saves analyzed figure to the system in .jpg format. 
 
+## Usage:
+
+##### 1. Cloning the repository.
+```
+git clone https://github.com/roshni-b/Audio-Visualizer.git
+cd Audio-Visualizer
+```
+
+##### 2. Running the script
+Run script in MATLAB
+```
+lab1.mat 
+```
+
 ## User-Interface
 ![alt text](https://github.com/roshni-b/Audio-Visualizer/blob/master/audio_viz_UI.png)
 
