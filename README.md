@@ -27,7 +27,7 @@ lab1.mat
 ```
 
 ## User-Interface
-<img src="audio_viz_UI.png">
+<img align="center" src="audio_viz_UI.png">
 
 ## Applications: 
 * Study of Acoustic Phonetics 
