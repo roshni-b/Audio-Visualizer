@@ -1,11 +1,7 @@
 %Audio recorder and analyzer has been built using GUIDE in MATLAB. It is a 
 %simple yet powerful program for interactive display for sound visualization 
 %in the form of waveforms and spectrograms. It can read and write audio files 
-%in .wav format and run on any system with MATLAB R2012 and above. 
-
-%By Roshni Biswas and Sonali Patro
-%PD Lab Project, NIT Rourkela
-%Guide: Prof. AK Turuk
+%in .wav format and run on any system with MATLAB R2012 and above.
 
 
 function varargout = lab1(varargin)
