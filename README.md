@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/84421407.svg)](https://zenodo.org/badge/latestdoi/84421407)
+
 # Audio-Visualizer: 
 **Records and displays sound in the form of waveforms and spectrograms**
 
