@@ -33,3 +33,5 @@ lab1.m
 * Study of Acoustic Phonetics 
 * Spectral Waterfall Analysis 
 * Music Performance Analysis 
+
+##### For comments and changes, please raise an [issue](https://github.com/roshni-b/Audio-Visualizer/issues) or create a pull request.
